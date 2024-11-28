@@ -121,8 +121,8 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '推荐账号「觅识」',
-  HEO_SOCIAL_CARD_TITLE_2: '一起觅得真知智识',
+  HEO_SOCIAL_CARD_TITLE_1: '推荐账号',
+  HEO_SOCIAL_CARD_TITLE_2: '「觅识」：一起觅得真知智识',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
   HEO_SOCIAL_CARD_URL: 'https://www.xiaohongshu.com/user/profile/636a82b5000000001f01eaf2',
 
