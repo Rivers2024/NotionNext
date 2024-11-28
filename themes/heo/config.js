@@ -7,9 +7,13 @@ const CONFIG = {
   HEO_SITE_CREATE_TIME: '2019-07-21', // 建站日期，用于计算网站运行的第几天
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
+  // HEO_NOTICE_BAR: [
+  //  { title: '欢迎来到里弗斯的博客', url: 'https://riversblog.site' },
+  //  { title: '一起寻觅更多真知智识', url: 'https://riversblog.site' }
+  // ],
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到里弗斯的博客', url: 'https://riversblog.site' },
-    { title: '一起寻觅更多真知智识', url: 'https://riversblog.site' }
+    { title: '欢迎来到里弗斯的博客'},
+    { title: '一起寻觅更多真知智识'}
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -23,7 +27,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'riversblog.site',
   HEO_HERO_TITLE_4: 'Follow your heart',
   HEO_HERO_TITLE_5: '徜徉知识海洋 无限进步',
-  HEO_HERO_TITLE_LINK: '',
+  // HEO_HERO_TITLE_LINK: '',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -117,7 +121,7 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '推荐🍠账号「觅识」',
+  HEO_SOCIAL_CARD_TITLE_1: '推荐账号「觅识」',
   HEO_SOCIAL_CARD_TITLE_2: '一起觅得真知智识',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
   HEO_SOCIAL_CARD_URL: 'https://www.xiaohongshu.com/user/profile/636a82b5000000001f01eaf2',
