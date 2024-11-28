@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://riversblog.site' },
+    { title: '欢迎来到里弗斯的博客', url: 'https://riversblog.site' },
     { title: '一起寻觅更多真知智识', url: 'https://riversblog.site' }
   ],
 
@@ -18,12 +18,12 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
+  HEO_HERO_TITLE_1: '分享产品思考',
   HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_3: 'riversblog.site',
+  HEO_HERO_TITLE_4: 'Follow your heart',
+  HEO_HERO_TITLE_5: '徜徉知识海洋 无限进步',
+  HEO_HERO_TITLE_LINK: '',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -49,7 +49,7 @@ const CONFIG = {
   ],
 
   // 个人资料底部按钮
-  HEO_INFO_CARD_URL1: 'jiangchuan19@foxmail.com',
+  HEO_INFO_CARD_URL1: 'mailto:jiangchuan19@foxmail.com',
   HEO_INFO_CARD_ICON1: 'fa-solid fa-at',
   HEO_INFO_CARD_URL2: 'https://v.douyin.com/CeiJ1TRAC/ 7@2.com :4pm',
   HEO_INFO_CARD_ICON2: 'fa-brands fa-tiktok',
